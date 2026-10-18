@@ -19,6 +19,10 @@ Building scalable data pipelines, real-time streaming architectures, and predict
 
 * 🏭 **[Industrial IoT Real-Time Anomaly Detection Pipeline](https://github.com/Nouha11154/industrial-anomaly-detection)**  
   *Event-driven real-time streaming pipeline using Apache Kafka, Python, and Docker.*
+* 🤖 **[RAG Application with LangChain & Streamlit](https://github.com/Nouha11154/rag-streamlit-app)**  
+  *Python, Groq API, ChromaDB, Streamlit*
+* 🔍 **[Scraper Emploi Maroc](https://github.com/Nouha11154/scraper-emploi-maroc)**  
+  *Pipeline complet de scraping et d'analyse du marché de l'emploi au Maroc.*
 
 ---
 
