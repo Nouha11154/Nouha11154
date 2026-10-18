@@ -26,4 +26,4 @@ Building scalable data pipelines, real-time streaming architectures, and predict
 
 ---
 
-📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/) | [Email](mailto:votre.email@example.com)
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/nouhaila-ibn-rachid-68364a332) | [Email](nouhaila.ibnrachid@gmail.com)
