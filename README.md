@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nouhaila! 👋
 
-<!--
-**Nouha11154/Nouha11154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Statistics & Data Engineering Student
+Building scalable data pipelines, real-time streaming architectures, and predictive statistical models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, SQL, R, Bash, Stata
+* **Data Engineering & Streaming:** Apache Kafka, Apache Spark, ETL/ELT Pipelines
+* **Statistical Modeling & ML:** Time Series, Regression, Scikit-Learn, LightGBM, FastAPI, Streamlit
+* **Cloud & DevOps:** Docker, AWS, Git, GitHub Actions, Docker Compose
+* **Databases & Storage:** PostgreSQL, Snowflake, S3
+
+---
+
+### 📌 Highlighted Projects
+
+* 🏭 **[Industrial IoT Real-Time Anomaly Detection Pipeline](https://github.com/Nouha11154/industrial-anomaly-detection)**  
+  *Event-driven real-time streaming pipeline using Apache Kafka, Python, and Docker.*
+
+---
+
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/) | [Email](mailto:votre.email@example.com)
